@@ -1,6 +1,6 @@
-### Hello! My name is Marin Mirasol and I love to work on productivity applications and apps that implement new ideas! 👋
+## Hello! My name is Marin Mirasol and I love to work on productivity applications and apps that implement new ideas! 👋
 
-Here's a little bit about me...
+## Here's a little bit about me...
 
 <!--
 **mmirasol17/mmirasol17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
