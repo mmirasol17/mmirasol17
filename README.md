@@ -6,6 +6,9 @@ Here's a little bit about me...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmirasol17)](https://github.com/anuraghazra/github-readme-stats)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmirasol17&show_icons=true&theme=dracula" alt="GitHub stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmirasol17&layout=compact&theme=dracula&langs_count=8&exclude_repo=repo1,repo2" alt="Top languages used in my private repos"/>
+
 <!--
 **mmirasol17/mmirasol17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
