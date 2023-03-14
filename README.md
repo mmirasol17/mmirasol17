@@ -1,8 +1,8 @@
-Hello! 
+Hello! 👋🏽
 
-My name is Marin Mirasol and I love to work on productivity applications and apps that implement new ideas!
+My name is Marin Mirasol and I love to work on productivity applications and apps that implement new ideas! 
 
-Here's a little bit about me...
+Here is a little bit about me and the tools that I have been using:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmirasol17&theme=dracula&langs_count=8&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
