@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [MyOrganizer](https://myorganizertool.com/)
 
-- 🌱 I’m currently learning **C#, ASP.NET, and more!**
+- 🌱 I’m currently learning: **C#, ASP.NET, and more!**
 
 - 👨‍💻 Learn more about my technical experience/expertise at [https://mmirasol17.github.io/](https://mmirasol17.github.io/)
 
-- ⚡ Fun fact **outside of coding, I love to play basketball and listen to music!**
+- ⚡ Fun fact: **outside of coding, I love to play basketball and listen to music!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
