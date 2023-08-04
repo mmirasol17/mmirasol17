@@ -1,4 +1,4 @@
-<h1 align="left">Hello, my name is Marin! (pronounced MEHR-IN) 👋🏽</h1>
+<h1 align="left">👋🏽 Hello, my name is Marin! (pronounced MEHR-IN)</h1>
 <h3 align="left">I am a passionate web/mobile developer.</h3>
 
 - 🔭 I’m currently working on [MyOrganizer](https://myorganizertool.com/)
