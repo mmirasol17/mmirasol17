@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **C#, ASP.NET, and more!**
 
-- 👨‍💻 All of my projects are available at [https://mmirasol17.github.io/](https://mmirasol17.github.io/)
-
-- 📫 How to reach me **mmirasol2000@gmail.com**
+- 👨‍💻 Learn more about my technical experience/expertise at [https://mmirasol17.github.io/](https://mmirasol17.github.io/)
 
 - ⚡ Fun fact **Outside of coding, I love to play basketball and listen to music!**
 
