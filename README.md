@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **mmirasol2000@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Sur-lp0ibPiO2swFII5ItDSV1Wm8K3rgJe_Qq_QekFg/edit?usp=sharing](https://docs.google.com/document/d/1Sur-lp0ibPiO2swFII5ItDSV1Wm8K3rgJe_Qq_QekFg/edit?usp=sharing)
-
 - ⚡ Fun fact **Outside of coding, I love basketball and music!**
 
 <h3 align="left">Connect with me:</h3>
