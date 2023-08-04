@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mmirasol2000@gmail.com**
 
-- ⚡ Fun fact **Outside of coding, I love basketball and music!**
+- ⚡ Fun fact **Outside of coding, I love to play basketball and listen to music!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
