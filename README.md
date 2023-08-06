@@ -20,6 +20,9 @@
   <a href="https://instagram.com/marin_mirasol" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marin_mirasol" height="30" width="40" />
   </a>
+  <a href="https://discord.gg/fh5JjD5GXk" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="marin_mirasol#2933" height="30" width="40" />
+  </a>
 </p>
 
 <!-- LANGS AND TOOLS SECTION -->
