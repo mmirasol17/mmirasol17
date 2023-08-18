@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <h1 align="left">👋🏽 Hello, my name is Marin! (pronounced MEHR-IN)</h1>
-<h3 align="left">I am a passionate web/mobile developer.</h3>
+<h3 align="left">I am passionate about web/mobile development.</h3>
 
 <!-- FUN FACTS SECTION -->
 - 🔭 I’m currently working on [MyOrganizer](https://myorganizertool.com/)
