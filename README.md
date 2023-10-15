@@ -3,11 +3,11 @@
 <h3 align="left">I am a passionate web/mobile developer.</h3>
 
 <!-- FUN FACTS SECTION -->
-- 🔭 I’m currently working on [MyOrganizer](https://myorganizertool.com/)
+- 🔭 I’m currently working on [MyOrganizer](https://myorganizer.app)
 
 - 🌱 I’m currently learning: **C#, ASP.NET, and more!**
 
-- 👨‍💻 Learn more about my technical experience/expertise at [https://mmirasol17.github.io/](https://mmirasol17.github.io/)
+- 👨‍💻 Learn more about my technical experience/expertise on my [Portfolio](https://marinmirasol.com)
 
 - ⚡ Fun fact: **outside of coding, I love to play basketball and listen to music!**
 
