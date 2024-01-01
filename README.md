@@ -20,11 +20,11 @@
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/marin_mirasol" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/instagram.svg" alt="marin_mirasol" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/socials/instagram.svg" alt="marin_mirasol" height="30" width="40" />
   </a>
   <!-- Discord -->
   <a href="https://discord.gg/fh5JjD5GXk" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/discord.svg" alt="marin_mirasol#2933" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/socials/discord.svg" alt="marin_mirasol#2933" height="30" width="40" />
   </a>
 </p>
 
