@@ -123,9 +123,11 @@
     <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/typescript.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   <!-- Unity -->
+  <!--
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a>
+  -->
 </p>
 
 <!--
