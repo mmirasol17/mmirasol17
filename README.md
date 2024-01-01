@@ -33,19 +33,19 @@
 <p align="left"> 
   <!-- .NET -->
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/dotnet.svg" alt="dotnet" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/dotnet.svg" alt="dotnet" width="40" height="40"/> 
   </a>
   <!-- Android Studio -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/androidstudio.svg" alt="android" width="40" height="40"/> 
   </a> 
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/aws.svg" alt="aws" width="40" height="40"/> 
   </a>
   <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/cpp" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <!-- C# -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
