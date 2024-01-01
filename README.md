@@ -33,7 +33,7 @@
 <p align="left"> 
   <!-- .NET -->
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/tree/master/icons/dotnet.svg" alt="dotnet" width="40" height="40"/> 
   </a>
   <!-- Android Studio -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
