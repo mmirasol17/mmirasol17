@@ -89,23 +89,23 @@
   </a>
   <!-- PHP -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/css" alt="php" width="40" height="40"/> 
   </a> 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/python.svg" alt="python" width="40" height="40"/> 
   </a> 
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/postgresql.svg" alt="postgresql" width="40" height="40"/> 
   </a>
   <!-- QT -->
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/pyqt.svg" alt="qt" width="40" height="40"/> 
   </a> 
   <!-- React.js -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/react.svg" alt="react" width="40" height="40"/> 
   </a> 
   <!-- Swift -->
   <!--
@@ -116,11 +116,11 @@
   
   <!-- TailwindCSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/tailwind.svg" alt="tailwind" width="40" height="40"/> 
   </a>
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/typescript.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   <!-- Unity -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
