@@ -45,15 +45,15 @@
   </a>
   <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/cpp" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/cpp.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <!-- C# -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/cs.svg" alt="csharp" width="40" height="40"/> 
   </a>
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/css.svg" alt="css3" width="40" height="40"/> 
   </a> 
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
