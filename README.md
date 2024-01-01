@@ -16,15 +16,15 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/marin-mirasol" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marin-mirasol" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/socials/linkedin.svg" alt="marin-mirasol" height="30" width="40" />
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/marin_mirasol" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marin_mirasol" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/instagram.svg" alt="marin_mirasol" height="30" width="40" />
   </a>
   <!-- Discord -->
   <a href="https://discord.gg/fh5JjD5GXk" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="marin_mirasol#2933" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/discord.svg" alt="marin_mirasol#2933" height="30" width="40" />
   </a>
 </p>
 
