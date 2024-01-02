@@ -43,6 +43,10 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/aws.svg" alt="aws" width="40" height="40"/> 
   </a>
+  <!-- Bash -->
+  <a href="https://www.gnu.org/software/bash/manual/bash.html#What-is-Bash_003f" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/bash.svg" alt="aws" width="40" height="40"/> 
+  </a>
   <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/mmirasol17/mmirasol17.github.io/master/icons/tech-stack/cpp.svg" alt="cplusplus" width="40" height="40"/> 
