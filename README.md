@@ -4,7 +4,7 @@
 
 <!-- FUN FACTS SECTION -->
 
-- 🔭 I’m currently working on [MyOrganizer](https://myorganizer.app)
+- 🔭 I’m currently working on [Lifelyze](https://lifelyze.com)
 
 - 🌱 I’m currently learning: **C#, ASP.NET, and more!**
 
